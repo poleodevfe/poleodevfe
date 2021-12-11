@@ -39,7 +39,7 @@ Seriously involved in deliver amazing quality products and high standar code thr
 - Postman
 - Very detailed with how to write the code
 
-If you dont see things like Redux its because i strongly defends that global state it's like cancer for projects of all types. It's like usign useEffect, is you need to use it in a component there are betters ways to do that you're not seeying.
+If you dont see things like Redux its because i strongly defends that global state it's like cancer for projects of all types. It's like usign useEffect, if you need to use it in a component there are better ways to do it that you do not know or are not seeing.
 
 I personally prefer to use server state like only source of truth rather than client state.
 
