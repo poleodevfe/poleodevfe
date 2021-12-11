@@ -15,6 +15,9 @@ Seriously involved in deliver amazing quality products and high standar code thr
 - ES6/ES7
 - ReactJS
 - Presentational/Container components
+- REST
+- GraphQL
+- Apollo
 - NextJS
 - TypeScript
 - HTML5
@@ -32,7 +35,13 @@ Seriously involved in deliver amazing quality products and high standar code thr
 - EsLint
 - StoryBook
 - NPM
+- GIT
+- Postman
 - Very detailed with how to write the code
+
+If you dont see things like Redux its because i strongly defends that global state it's like cancer for projects of all types. It's like usign useEffect, is you need to use it in a component there are betters ways to do that you're not seeying.
+
+I personally prefer to use server state like only source of truth rather than client state.
 
 ## Soft skills
 
