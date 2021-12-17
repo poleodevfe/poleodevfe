@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @poleodevfe you can find me in linkeding over [here](https://www.linkedin.com/in/poleodesign/) i'm a Sr. FrontEnd developer with 6 years of experience. 
+👋 Hi, I’m Jesús Poleo @poleodevfe you can find me in linkeding over [here](https://www.linkedin.com/in/poleodesign/).
 
-Right now i'm working like Tech Lead in a important retail grocery store named SMU, S.A in Chile where my main challenge was build from scrath the foundation for scalable FrontEnd architecture where all the devs can stop struggling and trying work together in monolitic project.
+I'm a Sr. FrontEnd Developer with +6 years of experience  in ecommerce projects.
 
-- 👀 I’m interested in mastery all related topics for FrontEnd development. 
+Right now i'm working like Tech Lead in a important retail grocery company named SMU, S.A in Chile where my main challenge and goal is continue building the foundation for scalable FrontEnd architecture with MFE (Micro frontend architecture) where all the devs can stop struggling and trying work together in monolitics projects.
 
 Seriously involved in deliver amazing quality products and high standar code through static, unit and integration testing, atomic design, SDD (Style-guide driven development) and in short term TDD.
 
-- 🌱 I’m currently learning MFE (Micro Front Ends) architecture to adapt in SMU dev culture.
+Also i always learning about stoicims, KAIZEN and leadership.
 
-- 📫 If you want to contact me you can send an email to poleodevfe@gmail.com or write to my linkeding.
+🌱 I’m currently learning:
+
+- MFE (Micro Front Ends) architecture to adapt in SMU dev culture.
+- Unit/integration and E2E testing (JEST, RTL and Cypress).
+- Modern javascript, always studying to strengthen my foundations.
+- Github Actions.
+- TDD.
+
+📫 If you want to contact me you can send an email to poleodevfe@gmail.com or write to my [linkeding](https://www.linkedin.com/in/poleodesign/).
 
 ## Hard skills
 
