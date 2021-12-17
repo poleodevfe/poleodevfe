@@ -2,9 +2,20 @@
 
 I'm a Sr. FrontEnd Developer with +6 years of experience  in ecommerce projects.
 
-Right now i'm working like Tech Lead in a important retail grocery company named SMU, S.A in Chile where my main challenge and goal is continue building the foundation for scalable FrontEnd architecture with MFE (Micro frontend architecture) where all the devs can stop struggling and trying work together in monolitics projects.
+Right now i'm working like Tech Lead in a important retail grocery company named SMU, S.A in Chile.
+
+My main goal and challenge is continue building the foundation for scalable FrontEnd architecture with MFE (Micro frontend architecture) where all the devs can stop struggling and trying work together in monolitics projects.
+
+So important its the quality of the product that we must delivery like how we make that our team keep growing, challenging and being accompanied during learning.
+
+> It is more important to have a team full of number 1s than looking to be the only number 1.
 
 Seriously involved in deliver amazing quality products and high standar code through static, unit and integration testing, atomic design, SDD (Style-guide driven development) and in short term TDD.
+
+In current and last projects i implemented and been working with:
+
+- Atomic design.
+- SDD (Style-guide driven development).
 
 Also i always learning about stoicims, KAIZEN and leadership.
 
@@ -22,7 +33,7 @@ Also i always learning about stoicims, KAIZEN and leadership.
 
 - ES6/ES7
 - ReactJS
-- Presentational/Container components
+- Presentational/Container components (The custom hooks version).
 - REST
 - GraphQL
 - Apollo
