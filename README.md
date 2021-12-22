@@ -1,4 +1,4 @@
-👋 Hi, I’m Jesús Poleo @poleodevfe you can find me in linkeding over [here](https://www.linkedin.com/in/poleodesign/).
+👋 Hi, I’m Jesús Poleo @poleodevfe you can find me in linkedin over [here](https://www.linkedin.com/in/poleodesign/).
 
 I'm a Sr. FrontEnd Developer with +6 years of experience  in ecommerce projects.
 
@@ -27,7 +27,7 @@ Also i always learning about stoicims, KAIZEN and leadership.
 - Github Actions.
 - TDD.
 
-📫 If you want to contact me you can send an email to poleodevfe@gmail.com or write to my [linkeding](https://www.linkedin.com/in/poleodesign/).
+📫 If you want to contact me you can send an email to poleodevfe@gmail.com or write to my [linkedin](https://www.linkedin.com/in/poleodesign/).
 
 ## Hard skills
 
